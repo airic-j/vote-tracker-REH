@@ -1,0 +1,102 @@
+[
+   {
+      "fear":"clown",
+      "picLink":"<img title=\"Pennywise\" src=\"img/clown-1.jpg\" />"
+   },
+   {
+      "fear":"clown",
+      "picLink":"<img title=\"Ronald Mcdonald\" src=\"img/clown-2.jpg\" />"
+   },
+   {
+      "fear":"clown",
+      "picLink":"<img title=\"Circus Clowns\" src=\"img/clown-3.jpg\" />"
+   },
+   {
+      "fear":"clown",
+      "picLink":"<img title=\"Twisty\" src=\"img/clown-4.png\" />"
+   },
+   {
+      "fear":"dog",
+      "picLink":"<img title=\"Irish WolfHound\" src=\"img/dog-1.jpg\" />"
+   },
+   {
+      "fear":"dog",
+      "picLink":"<img title=\"Crested Hairless\" src=\"img/dog-2.jpg\" />"
+   },
+   {
+      "fear":"dog",
+      "picLink":"<img title=\"Golden Retriever\" src=\"img/dog-3.jpg\" />"
+   },
+   {
+      "fear":"germ",
+      "picLink":"<img title=\"Common Cold\" src=\"img/germ-1.jpg\" />"
+   },
+   {
+      "fear":"germ",
+      "picLink":"<img title=\"Germs\" src=\"img/germ-2.jpg\" />"
+   },
+   {
+      "fear":"germ",
+      "picLink":"<img title=\"Germs\" src=\"img/germ-3.jpg\" />"
+   },
+   {
+      "fear":"heights",
+      "picLink":"<img title=\"heights\" src=\"img/heights-1.jpg\" />"
+   },
+   {
+      "fear":"heights",
+      "picLink":"<img title=\"heights\" src=\"img/heights-2.jpg\" />"
+   },
+   {
+      "fear":"heights",
+      "picLink":"<img title=\"heights\" src=\"img/heights-3.jpg\" />"
+   },
+   {
+      "fear":"kitten",
+      "picLink":"<img title=\"Kittens\" src=\"img/kitten-1.jpg\" />"
+   },
+   {
+      "fear":"kitten",
+      "picLink":"<img title=\"Kittens\" src=\"img/kitten-2.jpg\" />"
+   },
+   {
+      "fear":"lightning",
+      "picLink":"<img title=\"lightning\" src=\"img/lightning-1.jpg\" />"
+   },
+   {
+      "fear":"lightning",
+      "picLink":"<img title=\"lightning\" src=\"img/lightning-2.jpg\" />"
+   },
+   {
+      "fear":"needle",
+      "picLink":"<img title=\"Needle\" src=\"img/needles-1.jpg\" />"
+   },
+   {
+      "fear":"needle",
+      "picLink":"<img title=\"Needle\" src=\"img/needles-2.jpg\" />"
+   },
+   {
+      "fear":"needle",
+      "picLink":"<img title=\"Needle\" src=\"img/needles-3.jpg\" />"
+   },
+   {
+      "fear":"snake",
+      "picLink":"<img title=\"Snake\" src=\"img/snake-1.jpg\" />"
+   },
+   {
+      "fear":"snake",
+      "picLink":"<img title=\"Snake\" src=\"img/snake-2.jpg\" />"
+   },
+   {
+      "fear":"spider",
+      "picLink":"<img title=\"Spider\" src=\"img/spider-1.jpg\" />"
+   },
+   {
+      "fear":"spider",
+      "picLink":"<img title=\"Spider\" src=\"img/spider-2.jpg\" />"
+   },
+   {
+      "fear":"spider",
+      "picLink":"<img title=\"Spider\" src=\"img/spider-3.jpg\" />"
+   }
+]
